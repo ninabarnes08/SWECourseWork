@@ -1,5 +1,4 @@
-package ProblemSet;
-
+package SWECourseWork.ProblemSet;
 import java.util.Scanner;
 
 public class HighScoreTracker {

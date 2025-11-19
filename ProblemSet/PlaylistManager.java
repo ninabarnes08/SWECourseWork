@@ -1,4 +1,4 @@
-package ProblemSet;
+package SWECourseWork.ProblemSet;
 import java.util.ArrayList;
 import java.util.Scanner;
 

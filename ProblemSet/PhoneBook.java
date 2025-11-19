@@ -1,4 +1,5 @@
-package ProblemSet;
+package SWECourseWork.ProblemSet;
+
 import java.util.HashMap;
 import java.util.Scanner;
 

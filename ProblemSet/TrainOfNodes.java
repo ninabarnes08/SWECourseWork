@@ -1,4 +1,4 @@
-package ProblemSet;
+package SWECourseWork.ProblemSet;
 public class TrainOfNodes {
 
     //helper class = TrainCar
